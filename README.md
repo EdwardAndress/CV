@@ -47,7 +47,7 @@ Previous Experience
 ### Queen Mary University London
 **Postdoctoral Research Assistant. November 2009&mdash;May 2014**
 
-During my time at QMUL I worked on various biological and biochemical projects, both as part of a team and independently.  These are the fruits of my labour as a [biological scientist].  These are the transferable skills I have acquired:
+During my time at QMUL I worked on various biological and biochemical projects, both as part of a team and independently.  These are the fruits of my labour as a [biological scientist].  These are the transferable skills acquired:
 - A scientific approach to problem solving
   -   Data analysis
   -   Hypothesis generation
