@@ -20,7 +20,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 | Have you ever bumped into someone randomly?  Have you ever been left bemused and bewildered after this chance meeting?  Have you ever gone on to wonder about how often you nearly bump into someone?  If you answered yes to all those questions, this app is for you.  More info [here]. | A simple model of the 'Boris Bikes' bike hire scheme in London, built cleanly using TDD, OOD. | An annotated archive of interesting places that users have found online, built using Sinatra, Postgres and an assortment of Gems |
 
 
-### Skills
+###Skills
 
 - Test Driven Development
   - RSpec
@@ -32,6 +32,14 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 - MVP Design
 - Basic Agile practices
 - Primary language: Ruby
+- Other languages: Javascript, CSS, HTML
+- Web development frameworks
+  - Rails 4.0
+  - Sinatra
+- Database management
+  - PostgresQL
+  - ActiveRecord
+  - DataMapper
   
 
 ### Experience
