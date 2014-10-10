@@ -13,7 +13,7 @@ Web development
 Simultaneously disillusioned with academic life and frustrated about not being able to realise my digital ideas, I signed up for the Web Dev bootcamp at [Makers Academy].  I now have the beginnings of a new skill set that I am eager to increase and refine.  My passion is to combine creativity with SOLID code.
 
 
-Recent Projects
+###Recent Projects
 
 | [Mist.] | [Boris Bikes] | [Bookmark Manager]
 |:-------------- |:------------- |:------------ |
@@ -22,6 +22,11 @@ Recent Projects
 
 ### Skills
 
+- Test Driven Development (RSpec, Capybara, Cucumber, Jasmine)
+- Object oriented design
+- Pair programming
+- MVP Design
+- Basic Agile practices
   
 
 ### Experience
@@ -41,6 +46,15 @@ Previous Experience
 
 ### Queen Mary University London
 **Postdoctoral Research Assistant. November 2009&mdash;May 2014**
+
+During my time at QMUL I worked on various biological and biochemical projects, both as part of a team and independently.  These are the fruits of my labour as a [biological scientist].  These are the transferable skills I have acquired:
+- A scientific approach to problem solving
+-   Data analysis
+-   Hypothesis generation
+-   Hypothesis testing
+-   Hypothesis revision
+- Understanding and investigating complex concepts
+- Communicating complex concepts
 
 Qualifications
 -----------
