@@ -38,7 +38,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [Mist.] - a wimsical app that lets you know, after the fact, when you nearly bumped into someone that you know. Team Mist. : [Zoe], [], [], [] and [].
+  - Final project: [Mist.] - a wimsical app that lets you know, after the fact, when you nearly bumped into someone that you know. Team Mist. : [Zoe Bryant], [Thomas Beeley], [Michiel Stigter], [Hannah Waxman] and [Charlie Redwood].
 
 
 Previous Employment
@@ -80,3 +80,8 @@ Contact me
   [eddie_andress@hotmail.com]: mailto:eddie_andress@hotmail.com
   [GitHub]: https://github.com/EdwardAndress
   [LinkedIn]: https://www.linkedin.com/pub/edward-andress/86/b03/aba
+  [Zoe Bryant]: https://github.com/zoeabryant/CV
+  [Thomas Beeley]: https://github.com/tbeeley
+  [Hannah Waxman]: https://github.com/HanWax/CV
+  [Michiel Stigter]: https://github.com/michielstigter
+  [Charlie Redwood]: https://github.com/M-E-T-H-O-Dman
