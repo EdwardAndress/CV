@@ -49,10 +49,10 @@ Previous Experience
 
 During my time at QMUL I worked on various biological and biochemical projects, both as part of a team and independently.  These are the fruits of my labour as a [biological scientist].  These are the transferable skills I have acquired:
 - A scientific approach to problem solving
--   Data analysis
--   Hypothesis generation
--   Hypothesis testing
--   Hypothesis revision
+  -   Data analysis
+  -   Hypothesis generation
+  -   Hypothesis testing
+  -   Hypothesis revision
 - Understanding and investigating complex concepts
 - Communicating complex concepts
 
