@@ -63,7 +63,7 @@ Contact me
   [Boris bikes]: https://github.com/EdwardAndress/makers_academy_week3
   [Mist.]: https://github.com/EdwardAndress/makers_academy_final_project
   [here]: https://github.com/EdwardAndress/makers_academy_final_project
-  [Bookamark Manager]: https://github.com/EdwardAndress/makers_academy_week6
+  [Bookmark Manager]: https://github.com/EdwardAndress/makers_academy_week6
   [Makers Academy]: http://www.makersacademy.com
   [eddie_andress@hotmail.com]: mailto:eddie_andress@hotmail.com
   [GitHub]: https://github.com/EdwardAndress
