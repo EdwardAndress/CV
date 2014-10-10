@@ -36,11 +36,13 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 - Web development frameworks
   - Rails 4.0
   - Sinatra
+- Responsive design 
 - Database management
   - PostgresQL
   - ActiveRecord
   - DataMapper
-  
+- Version control by Git
+- Collaboration through GitHub
 
 ### Experience
 
