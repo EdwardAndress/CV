@@ -41,7 +41,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
   - Final project: [Mist.] - a wimsical app that lets you know, after the fact, when you nearly bumped into someone that you know. Team Mist. : [Zoe], [], [], [] and [].
 
 
-Previous Experience
+Previous Employment
 ----------
 
 ### Queen Mary University London
