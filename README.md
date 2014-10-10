@@ -4,7 +4,7 @@ Edward Andress
 **Available for work as a Junior Developer in London and the surrounding areas**
 
 I am a former [biological scientist] who would like to apply scientific methodology in a fresh setting.
-You can read my fledgling code on [GitHub]
+You can read my fledgling code on [GitHub].
 
 
 Web development
@@ -22,7 +22,11 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 
 ### Skills
 
-- Test Driven Development (RSpec, Capybara, Cucumber, Jasmine)
+- Test Driven Development
+  - RSpec
+  - Capybara
+  - Cucumber
+  - Jasmine
 - Object oriented design
 - Pair programming
 - MVP Design
