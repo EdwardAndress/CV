@@ -44,8 +44,11 @@ Previous Experience
 ### Queen Mary University London
 **Postdoctoral Research Assistant. November 2009&mdash;May 2014**
 
-Formal Education
+Qualifications
 -----------
+(2004-2009) **PhD**   - Epigenetics, Imperial College London
+(2003-2004) **MRes**  - Integrated Biological Sciences, Imperial College London
+(2000-2003) **BSc.**  - Genetics (1st Class) University of Liverpool
 
 
 Contact me
