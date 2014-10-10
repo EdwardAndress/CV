@@ -31,6 +31,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 - Pair programming
 - MVP Design
 - Basic Agile practices
+- Primary language: Ruby
   
 
 ### Experience
