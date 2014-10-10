@@ -3,7 +3,7 @@ Edward Andress
 
 **Available for work as a Junior Developer in London and the surrounding areas**
 
-I am a former [biological scientist] who would like to apply scientific methods in a fresh setting.
+I am a former [biological scientist] who would like to apply scientific methodology in a fresh setting.
 You can read my fledgling code on [GitHub]
 
 
@@ -56,11 +56,11 @@ Contact me
 - [GitHub]
 - [LinkedIn]
 
-  [biological scientist]: 
+  [biological scientist]: http://www.ncbi.nlm.nih.gov/pubmed/?term=edward+andress
   [Boris bikes]: https://github.com/EdwardAndress/makers_academy_week3
   [Mist.]: https://github.com/EdwardAndress/makers_academy_final_project
   [here]: https://github.com/EdwardAndress/makers_academy_final_project
-
+  [Bookamark Manager]: https://github.com/EdwardAndress/makers_academy_week6
   [Makers Academy]: http://www.makersacademy.com
   [eddie_andress@hotmail.com]: mailto:eddie_andress@hotmail.com
   [GitHub]: https://github.com/EdwardAndress
