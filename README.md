@@ -10,14 +10,14 @@ You can read my fledgling code on [GitHub].
 Web development
 ---------------
 
-Simultaneously disillusioned with academic life and frustrated about not being able to realise my digital ideas, I signed up for the Web Dev bootcamp at [Makers Academy].  I now have the beginnings of a new skill set that I am eager to increase and refine.  My passion is to combine creativity with SOLID code.
+Simultaneously disillusioned with academic life and frustrated about not being able to realise my digital dreams, I signed up for the Web Dev bootcamp at [Makers Academy].  I now have the beginnings of a new skill set that I am eager to increase and refine.  My passion is to combine creativity with SOLID code.
 
 
 ###Recent Projects
 
 | [Mist.] | [Boris Bikes] | [Bookmark Manager]
 |:-------------- |:------------- |:------------ |
-| Have you ever bumped into someone randomly?  Have you ever been left bemused and bewildered after this chance meeting?  Have you ever gone on to wonder about how often you nearly bump into someone?  If you answered yes to all those questions, this app is for you.  More info [here]. | A simple model of the 'Boris Bikes' bike hire scheme in London, built cleanly using TDD, OOD. | An annotated archive of interesting places that users have found online, built using Sinatra, Postgres and an assortment of Gems |
+| Have you ever bumped into someone randomly?  Have you ever been left bemused and bewildered after such a chance meeting?  Have you ever gone on to wonder about how often you nearly bump into someone?  If you answered yes to all those questions, [this app] is for you. | Model of the 'Boris Bikes' bike hire scheme in London, built cleanly using TDD, OOD. | An annotated archive of interesting places that users have found online, built using Sinatra, Postgres and an assortment of Gems |
 
 
 ###Skills
@@ -89,7 +89,7 @@ Contact me
   [biological scientist]: http://www.ncbi.nlm.nih.gov/pubmed/?term=edward+andress
   [Boris bikes]: https://github.com/EdwardAndress/makers_academy_week3
   [Mist.]: https://github.com/EdwardAndress/makers_academy_final_project
-  [here]: https://github.com/EdwardAndress/makers_academy_final_project
+  [this app]: https://github.com/EdwardAndress/makers_academy_final_project
   [Bookmark Manager]: https://github.com/EdwardAndress/makers_academy_week6
   [Makers Academy]: http://www.makersacademy.com
   [eddie_andress@hotmail.com]: mailto:eddie_andress@hotmail.com
