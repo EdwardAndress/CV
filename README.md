@@ -13,14 +13,14 @@ Web development
 Simultaneously disillusioned with academic life and frustrated about not being able to realise my digital dreams, I signed up for the Web Dev bootcamp at [Makers Academy].  I now have the beginnings of a new skill set that I am eager to increase and refine.  My passion is to combine creativity with SOLID code.
 
 
-###*Recent Projects*
+####*Recent Projects*
 
 | [Mist.] | [Boris Bikes] | [Bookmark Manager]
 |:-------------- |:------------- |:------------ |
 | Have you ever bumped into someone randomly?  Have you ever been left bemused and bewildered after such a chance meeting?  Have you ever gone on to wonder about how often you nearly bump into someone?  If you answered yes to all those questions, [this app] is for you. | Model of the 'Boris Bikes' bike hire scheme in London, built cleanly using TDD, OOD. | An annotated archive of interesting places that users have found online, built using Sinatra, Postgres and an assortment of Gems |
 
 
-###*Skills*
+####*Skills*
 
 - Test Driven Development
   - RSpec
@@ -44,7 +44,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 - Version control by Git
 - Collaboration through GitHub
 
-###*Experience*
+####*Experience*
 
 [Makers Academy]
 **Web Development Bootcamp: June&mdash;September 2014**
@@ -60,7 +60,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 Previous Employment
 ----------
 
-###*Queen Mary University London*
+####*Queen Mary University London*
 Postdoctoral Research Assistant: November 2009&mdash;May 2014
 
 During my time at QMUL I worked on various biological and biochemical projects, both as part of a team and independently.  These are the fruits of my labour as a [biological scientist].  These are the transferable skills acquired:
