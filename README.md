@@ -85,9 +85,10 @@ Coding is fun but so are some other things
  - [More photography]
  - [More more photography]
  - Snowboarding
- - Rock climbing
- - Immersive theatre (watching, not performing)
-
+ - [Rock climbing]
+ - [Immersive theatre] (watching, not performing)
+ - [Food] and [drink]
+ - [Football]
 
 Contact me
 ------------
@@ -114,3 +115,8 @@ Contact me
   [Photography]: http://andressedward.tumblr.com
   [More photography]: http://edwardandressweddings.tumblr.com
   [More more photography]: https://picfair.com/users/edwardandress
+  [Food]: http://www.ottolenghi.co.uk/recipes
+  [drink]: http://www.smws.co.uk/venues/19_Greville_Street,_London
+  [Immersive theatre]: http://punchdrunk.com/
+  [Football]: http://www.liverpoolfc.com/welcome-to-liverpool-fc
+  [Rock climbing]: http://www.castle-climbing.co.uk/
