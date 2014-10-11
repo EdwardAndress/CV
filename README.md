@@ -13,7 +13,7 @@ Web development
 Simultaneously disillusioned with academic life and frustrated about not being able to realise my digital dreams, I signed up for the Web Dev bootcamp at [Makers Academy].  I now have the beginnings of a new skill set that I am eager to increase and refine.  My passion is to combine creativity with SOLID code.
 
 
-###Recent Projects
+###*Recent Projects*
 
 | [Mist.] | [Boris Bikes] | [Bookmark Manager]
 |:-------------- |:------------- |:------------ |
@@ -54,6 +54,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
   - Full stack web development
   - Pair programming and teamwork
   - Final project: [Mist.] - a wimsical app that lets you know, after the fact, when you nearly bumped into someone that you know. Team Mist. : [Zoe Bryant], [Thomas Beeley], [Michiel Stigter], [Hannah Waxman] and [Charlie Redwood].
+
 
 
 Previous Employment
@@ -110,6 +111,6 @@ Contact me
   [Hannah Waxman]: https://github.com/HanWax/CV
   [Michiel Stigter]: https://github.com/michielstigter
   [Charlie Redwood]: https://github.com/M-E-T-H-O-Dman
-  [Photography]: https://andressedward.tumblr.com
-  [More photography]: https://edwardandressweddings.tumblr.com
+  [Photography]: http://andressedward.tumblr.com
+  [More photography]: http://edwardandressweddings.tumblr.com
   [More more photography]: https://picfair.com/users/edwardandress
