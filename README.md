@@ -54,8 +54,8 @@ Simultaneously disillusioned with academic life and frustrated about not being a
   - Full stack web development
   - Pair programming and teamwork
   - Final project: [Mist.] - a wimsical app that lets you know, after the fact, when you nearly bumped into someone that you know. Team Mist. : [Zoe Bryant], [Thomas Beeley], [Michiel Stigter], [Hannah Waxman] and [Charlie Redwood].
-
-
+  
+  
 
 Previous Employment
 ----------
