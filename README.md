@@ -32,7 +32,7 @@ Simultaneously disillusioned with academic life and frustrated about not being a
 - MVP Design
 - Basic Agile practices
 - Primary language: Ruby
-- Other languages: Javascript, CSS, HTML
+- Other languages: Javascript, CSS, HTML, Markdown (GitHub flavour)
 - Web development frameworks
   - Rails 4.0
   - Sinatra
@@ -78,6 +78,16 @@ Qualifications
  * (2000-2003) **BSc.**  - Genetics (1st Class) University of Liverpool
 
 
+Coding is fun but so are some other things
+------------------------------------------
+ - [Photography]
+ - [More photography]
+ - [More more photography]
+ - Snowboarding
+ - Rock climbing
+ - Immersive theatre (watching, not performing)
+
+
 Contact me
 ------------
 
@@ -100,3 +110,6 @@ Contact me
   [Hannah Waxman]: https://github.com/HanWax/CV
   [Michiel Stigter]: https://github.com/michielstigter
   [Charlie Redwood]: https://github.com/M-E-T-H-O-Dman
+  [Photography]: https://andressedward.tumblr.com
+  [More photography]: https://edwardandressweddings.tumblr.com
+  [More more photography]: https://picfair.com/users/edwardandress
