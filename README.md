@@ -93,7 +93,7 @@ Coding is fun but so are some other things
 Contact me
 ------------
 
-- Mobile: 07976251616
+- Mobile: 07976251516
 - Email: [eddie_andress@hotmail.com]
 - [GitHub]
 - [LinkedIn]
